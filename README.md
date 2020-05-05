@@ -1,4 +1,14 @@
 <html>
+   <font color=#ffffff><h1 align=center> WELCOME</h1></font></table>
+<table><h2 align="center"><a href="">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="about.html">ABOUT</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="games.html">GAMES</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="accessories.html">ACCESSORIES</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="Video.html">VIDEO</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="my journey.html">MY JOURNEY</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2></table> 
+
+
+
 <body background="1413932.jpg" width=5000%>
 <table><img src="logo.jpg" width=100 height=50 align=left>
 <font color=#000000><h1 align=center>OCEAN GAMING</h1></font></table>
